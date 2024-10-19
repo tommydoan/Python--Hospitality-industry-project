@@ -13,9 +13,9 @@
         (1) Clean invalid guests
         (2) Outlier removal in revenue generated
         Request-1. In aggregate bookings find columns that have null values. Fill these null values with whatever 
-        you think is the appropriate subtitute (possible ways is to use mean or median)
+                   you think is the appropriate subtitute (possible for using in mean or median)
         Request-2. In aggregate bookings find out records that have successful_bookings value greater than capacity.
-        Filter those records
+                   Filter those records
 ### ==> 3. Data Transformation
         Create occupancy percentage column
 ### ==> 4. Insights Generation
